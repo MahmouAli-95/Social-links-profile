@@ -51,4 +51,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📬 Contact
 
-- GitHub: https://github.com/MahmouAli-95/social-links-profile.git
+- GitHub: https://github.com/MahmoudAli-95/social-links-profile.git
